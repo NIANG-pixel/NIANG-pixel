@@ -45,8 +45,8 @@ Mon objectif est de construire des compétences solides et de développer des **
 
 🔹 Projets académiques et personnels  
 🔹 Applications web avec Django  
-🔹 Projets liés aux réseaux et systèmes  
-🔹 Projets expérimentaux en IA et robotique (en cours)
+🔹 Site e-commerce 
+
 
 👉 *Les projets seront publiés et documentés progressivement.*
 
