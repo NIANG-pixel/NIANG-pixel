@@ -1,7 +1,7 @@
-# 👋 Salut, je suis Abdourahmane Niang
+# 👋 Salut, je suis Abdourahmane Niang, et Niang-pixels mon identité dans la tech
 
 🎓 Étudiant en **Systèmes Réseaux & Télécommunications (SRT)**  
-💻 Passionné par le **développement logiciel**, les **réseaux**, les **télécoms**  
+💻 Passionné par le **développement logiciel**, les **réseaux**, les **télécoms** , l'**Intelligence Artificielle**, les **IOT** 
 🤖 Intéressé par l’**intelligence artificielle**, la **robotique**, la **mécatronique** et l’**aérospatiale**  
 🌍 Basé au **Sénégal 🇸🇳**
 
@@ -44,6 +44,8 @@ Mon objectif est de construire des compétences solides et de développer des **
 ## 📂 Projets
 
 🔹 Projets académiques et personnels  
+🔹 Application SaaS de création de cv appelé ***SamaCv***
+🔹 Mon poftfolio web officiel
 🔹 Applications web avec Django  
 🔹 Site e-commerce 
 
@@ -66,7 +68,7 @@ Mon objectif est de construire des compétences solides et de développer des **
 
 - 📧 Email : *niangabdourahmane85@gmail.co*
 - 💼 LinkedIn : *https://www.linkedin.com/in/abdourahmane-niang-56a673379Nous*
-- 🌐 Portfolio : *#*
+- 🌐 Portfolio : *https://abdourahmane-niang.site*
 
 ---
 
