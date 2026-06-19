@@ -4,7 +4,7 @@
 💻 Passionné par le **développement logiciel**, les **réseaux**, les **télécoms** , l'**Intelligence Artificielle**, les **IOT** 
 🤖 Intéressé par l’**intelligence artificielle**, la **robotique**, la **mécatronique** et l’**aérospatiale**  
 🌍 Basé au **Sénégal 🇸🇳**
-
+ 
 ---
 
 ## 🚀 À propos de moi
